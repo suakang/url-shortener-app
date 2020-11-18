@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{ 
+  "longUrl": "https://www.amazon.com/dp/B074P2M8N8/ref=va_live_carousel?pf_rd_r=MJP9ZRAJK1KF25RNT7DY&pf_rd_p=33db5f98-4cc4-4f5a-a340-22a8cc80720f&pf_rd_m=ATVPDKIKX0DER&pf_rd_t=HighVelocityEvent&pf_rd_i=holidaydash_1_desktop&pf_rd_s=slot-3&pd_rd_i=B074P2M8N8"
+}
